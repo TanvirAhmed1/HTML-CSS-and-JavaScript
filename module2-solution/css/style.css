@@ -71,4 +71,7 @@ h1 {
     text-align: justify;
     margin-top: 15px;
   }
+  #width {
+    margin-bottom: 15px;
+  }
 }
